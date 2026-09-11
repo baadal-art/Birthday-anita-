@@ -1,0 +1,6 @@
+{
+  "name": "Anita's Birthday Adventure",
+  "description": "An interactive, humorous birthday mini-game and celebration for Anita from Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
